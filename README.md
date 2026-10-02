@@ -172,6 +172,9 @@ us-equity-research-skill/
 │   ├── cases.md
 │   └── rubric.md
 │
+├── examples/
+│   └── nike-earnings-example.md
+│
 ├── README.md
 └── .gitignore
 ```
@@ -219,6 +222,18 @@ Skill 不使用固定报告模板，输出会根据问题复杂度变化。三�
 或：
 
 > 研究美国电网设备产业。告诉我需求来自哪里、产业里的钱最终被谁赚走，以及哪些增长已经兑现。
+
+### 真实输出案例
+
+想直接看一次真实调用最终会得到什么，可以查看：
+
+**[NIKE 最新财报研究案例](./examples/nike-earnings-example.md)**
+
+这个案例的用户输入只有一句：
+
+> 分析一下 NIKE 最新财报，告诉我这次真正值得关注的变化。
+
+没有额外指定季度、指标、来源或分析框架。
 
 ## 常见问题与排障
 
